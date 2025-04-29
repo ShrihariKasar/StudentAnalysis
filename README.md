@@ -75,8 +75,6 @@ Graphs and charts such as:
 ## 👨‍💻 Authors
 
 - Shrihari Kasar
-- Utkarsha Kakulte
-- Rohit Khadangle
 
 ## 📄 License
 
